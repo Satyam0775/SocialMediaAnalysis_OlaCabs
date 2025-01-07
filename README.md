@@ -65,4 +65,4 @@ The analysis is conducted using Python and includes steps for data cleaning, des
 ## **How to Use**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/social-media-analysis-ola-cabs.git  
+   git clone https://github.com/Satyam0775/social-media-analysis-ola-cabs.git  
